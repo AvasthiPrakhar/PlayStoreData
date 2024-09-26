@@ -2,7 +2,7 @@
 
 Exploration and Analysis of Google Play store [Data](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps) Scrapped from the Google Play store in 2021 and contains Application data of more than 600K applications with 23 attributes.
 
-Before Analysis, This data set has been cleaned and formatted. Python Scripts and insights specific to that phase can be found [here]() 
+Before Analysis, This data set has been cleaned and formatted. Python Scripts and insights specific to that phase can be found [here](https://github.com/AvasthiPrakhar/PlayStoreData/blob/main/DataCleaning.ipynb) 
 
 A Tableau Story with Interactive Dashboards can be found [here (Story 1)](https://public.tableau.com/app/profile/prakhar.a3419/viz/Story1AnalysisofRatings/Story1) and [here (Story 2)](https://public.tableau.com/app/profile/prakhar.a3419/viz/Story2Installations/Story2)
 
